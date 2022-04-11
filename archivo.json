@@ -1,0 +1,10 @@
+[
+    {"title":"Curso de Node.js","price":"100","thumbnail":"image.png","id":1},
+    {"title":"Curso de React.js","price":"200","thumbnail":"image.png","id":2},
+    {"title":"Curso de Angular.js","price":"300","thumbnail":"image.png","id":3},
+    {"title":"Curso de Vue.js","price":"400","thumbnail":"image.png","id":4},
+    {"title":"Curso de desarrollo web", "price":"500", "thumbnail":"image.png", "id":5},
+    {"title":"Curso de desarrollo móvil", "price":"600", "thumbnail":"image.png", "id":6},
+    {"title":"Curso de desarrollo de aplicaciones web", "price":"700", "thumbnail":"image.png", "id":7},
+    {"title":"Curso de desarrollo de aplicaciones móviles", "price":"800", "thumbnail":"image.png", "id":8}
+]
